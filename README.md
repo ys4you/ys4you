@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 My name is Yesse. I am a software/game developer @Grafisch Lyceum Utrecht.
-You can view my work at: yesseseijn.com
 
 languages
   - C#
